@@ -1,4 +1,8 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
+# DATE: 19/09/2024
+
+## NAME : Muhammad Afshan .A
+## Register Number : 212223100035
 
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
